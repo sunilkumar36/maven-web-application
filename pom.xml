@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>ICICI Bank Snapshot Nexus Repository </name>
-	      <url>http://52.87.252.60:8081/repository/icicibank-Snapshot/</url>
+	      <url>http://54.152.50.154:8081/repository/icicibank-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
