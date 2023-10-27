@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>ICICI BANK Releases Nexus Repository</name>
-	      <url>http://52.87.231.2:8081/repository/icici-release/</url>
+	      <url>http://52.87.252.60:8081/repository/icicibank-Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>ICICI BANK Snapshot Nexus Repository </name>
-	      <url>http://52.87.231.2:8081/repository/icici-snapshot/</url>
+	      <url>http://52.87.252.60:8081/repository/icicibank-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
