@@ -5,7 +5,7 @@
 	<groupId>com.mt</groupId>
 	<artifactId>maven-web-application</artifactId>
 	<packaging>war</packaging>
-	<version>0.0.1</version>
+	<version>0.1.1</version>
 	
 	<name>maven-web-application</name>
 
@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>ICICI Bank Releases Nexus Repository</name>
-	      <url>http://34.204.61.200:8081/repository/icici---Release/</url>
+	      <url>http://3.95.147.135:8081/repository/icici-Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>ICICI Bank Snapshot Nexus Repository </name>
-	      <url>http://204.236.240.119:8081/repository/icici-Snapshot/</url>
+	      <url>http://3.95.147.135:8081/repository/icici-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
